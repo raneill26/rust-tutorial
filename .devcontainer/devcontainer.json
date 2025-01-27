@@ -1,0 +1,13 @@
+{
+    "name": "Rust Tutorial",
+    "image": "mcr.microsoft.com/vscode/devcontainers/rust",
+    "customizations": {
+      "vscode": {
+        "settings": {},
+        "extensions": [
+          "rust-lang.rust-analyzer"
+        ]
+      }
+    }
+  }
+  
